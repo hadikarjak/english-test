@@ -17,7 +17,7 @@
 }
 
 #quizWrap {
-    max-width: 600px;
+    max-width: 200px;
     margin: 0 auto;
     /* RECOMMENDED FIXED HEIGHT IF YOU HAVE CONTENT BELOW THE QUIZ */
     /* SO THAT PAGE LAYOUT DOES NOT "JUMP" */
