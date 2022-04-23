@@ -58,14 +58,8 @@
     text-align: center;
 }
 
-#quizAns label.correct {
-    background: #4caf50;
-    color: #fff;
-}
-
-#quizAns label.wrong {
-    background: #b71c1c;
-    color: #fff;
+#quizAns label:hover {
+    background-color: #6b75eb9d;
 }
 
 
