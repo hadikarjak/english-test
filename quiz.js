@@ -678,11 +678,11 @@ var quiz = {
                 quiz.hQn.innerHTML = `لقد أجبت على ${quiz.score} من ${quiz.data.length} سؤال.
                 
                <br>
-               <h5 style="text-align:right">هذا الإختبار مصمم ومطور من قبل أكاديمية الفارس، إذا كنت مهتم بتعلم اللغة الإنجليزية
+               <h5 style="text-align:right">هذا الإختبار مصمم ومطور من قبل أكاديمية الفارس، إذا كنت مهتم بتعلم اللغة الإنجليزية والتسجيل بدوراتنا المتخصصة في اللغة الإنجليزية راسلنا عبر الرابط أدناه وأرسل لنا صورة شاشة للنتيجة لإضافتك للمستوى المطلوب الذي تحتاجه
               راسلنا عبر الرابط التالي :
               </h5>
               <br>
-              <a href="https://wsend.co/0097450673305" style="background:#ffd249;text-align:center;padding:10px;color:#2c2f58;border-radius:3px;">تواصل معنا الآن</a>
+              <a href="https://wsend.co/0097455312715" style="background:#ffd249;text-align:center;padding:10px;color:#2c2f58;border-radius:3px;">تواصل معنا الآن</a>
                 `;
                 quiz.hAns.innerHTML = "";
             }
